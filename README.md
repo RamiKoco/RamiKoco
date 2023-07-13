@@ -1,8 +1,8 @@
 # 💫 About Me:
-## I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!<br>- 🔭 I’m currently working on a large and special application.<br>- 🌱 I’m currently developing Asp.Net application<br>- 👯I’m looking to collaborate with other .NET developers 👩‍💻 and JavaScript designers 🎨<br>- 🥅 2023 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖<br>- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️<br>## ⏲ What we are doing now:<br>I'm constantly developing projects to improve myself.  🚀.<br>I'm a Software Engineer 💻. <br>I'm developing an app with my team 👨🏼‍🤝‍👨🏻, <br>I also work as a FreeLancer 🆓.
+# I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!<br>- 🔭 I’m currently working on a large and special application.<br>- 🌱 I’m currently developing Asp.Net application<br>- 👯I’m looking to collaborate with other .NET developers 👩‍💻 and JavaScript designers 🎨<br>- 🥅 2023 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖<br>- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️<br>## ⏲ What we are doing now:<br>I'm constantly developing projects to improve myself.  🚀.<br>I'm a Software Engineer 💻. <br>I'm developing an app with my team 👨🏼‍🤝‍👨🏻, <br>I also work as a FreeLancer 🆓.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rami-koco-6167a9243/) 
 
 # 💻 Tech Stack:
