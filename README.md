@@ -54,7 +54,7 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
 ![](https://github-contributor-stats.vercel.app/api?username=Ramikoco&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" />
-
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ramikoco&icon=0&color=0)](https://visitcount.itsvg.in) -->
@@ -78,9 +78,9 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
 <p align="center">
   <img width=100% src="https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&theme=monokai&column=7&no-frame=false&margin-w=4"/>
 </p> -->
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 
-<div> 
+
+
  
  
   
