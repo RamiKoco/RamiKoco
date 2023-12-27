@@ -63,16 +63,11 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
  <img src="https://media3.giphy.com/media/TpNTATTp5c2Ri/giphy.gif?cid=790b7611a9ccd55e6b764aacf4c7a277dc6c1d020f1e187e&rid=giphy.gif&ct=s" width="45" height="25" align="right">
  <img src="https://media0.giphy.com/media/5eFFhJ3yrAIndRQeFx/giphy.gif?cid=790b761159865a018304701e37e468edc07abbeca1073a30&rid=giphy.gif&ct=s" width="35" height="25">
 
- <p align="center"><img src="https://count.getloli.com/get/@yasinnorozzadeh?theme=rule34" />
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<img src="https://raw.githubusercontent.com/yasinnorozzadeh/yasinnorozzadeh/main/intro.gif"/>
+
 
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
-<p align="center">
- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasinnorozzadeh&theme=github_dark" alt="yasinnorozzadeh" align = "center"/>
-</p>
+
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
 <!-- ![](https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&theme=monokai&no-frame=false&no-bg=false&margin-w=4) -->
 
