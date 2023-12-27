@@ -2,17 +2,19 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" />
 I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!<br>- 🔭 I’m currently working on a large and special application.<br>- 🌱 I’m currently developing Asp.Net application<br>- 👯I’m looking to collaborate with other .NET developers 👩‍💻 and JavaScript designers 🎨<br>- 🥅 2023 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖<br>- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️<br>⏲ What we are doing now:<br>I'm constantly developing projects to improve myself. 🚀.<br>I'm a Software Engineer 💻.<br>I'm developing an app with my team 👨🏼‍🤝‍👨🏻,<br>I also work as a FreeLancer 🆓.
 <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
  <img src="https://media1.giphy.com/media/ZbftmEwht0nDkl6XFX/giphy.gif?cid=ecf05e47l19lzmqnuv3o320i63xy3da13bsxhp10w9z9wm8s&rid=giphy.gif&ct=s" width="45" height="25" align="left">
  <img src="https://media2.giphy.com/media/3JTwfEEdDlpyh6M0o2/giphy.gif?cid=790b7611e9c9e8bc9ce40170c9368926692fdb648405ee7c&rid=giphy.gif&ct=s" width="45" height="25" align="right">
  <img src="https://media0.giphy.com/media/2oO1ZKeNbqOfdZq3Xg/giphy.gif?cid=790b7611ba913d63c2062a9ed006330a9e0b3b82405ca556&rid=giphy.gif&ct=s" width="40" height="25" align="left">
  <img src="https://media4.giphy.com/media/Jfcb1m7szdya4/giphy.gif?cid=790b7611ba301e9e5a458343e47a2e69f896f8a65b16c282&rid=giphy.gif&ct=s" width="45" height="25" align="right">
  <img src="https://media3.giphy.com/media/TpNTATTp5c2Ri/giphy.gif?cid=790b7611a9ccd55e6b764aacf4c7a277dc6c1d020f1e187e&rid=giphy.gif&ct=s" width="45" height="25" align="right">
  <img src="https://media0.giphy.com/media/5eFFhJ3yrAIndRQeFx/giphy.gif?cid=790b761159865a018304701e37e468edc07abbeca1073a30&rid=giphy.gif&ct=s" width="35" height="25"> 
+ <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rami-koco-6167a9243/) 
-
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/> </p> 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -65,8 +67,8 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
 
 <!-- Burası yeni -->
  
-<img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/> </p> 
+
+
 
 
 
