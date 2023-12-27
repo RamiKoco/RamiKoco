@@ -86,14 +86,7 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
 <p align="center">
  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasinnorozzadeh&theme=github_dark" alt="yasinnorozzadeh" align = "center"/>
 </p>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
 
- ![](https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
-
-
-
-  ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/github-user-contribution.svg) 
   
 <!--  ![Github](https://img.shields.io/github/followers/yasinnorozzadeh?label=Follow&style=social) -->
   
