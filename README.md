@@ -71,8 +71,7 @@ Burası yeni
 
  
   ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/github-user-contribution.svg) 
-  
-  ![Github](https://img.shields.io/github/followers/yasinnorozzadeh?label=Follow&style=social)
+ 
   
 
 
