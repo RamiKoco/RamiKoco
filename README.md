@@ -78,13 +78,13 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 <img src="https://raw.githubusercontent.com/yasinnorozzadeh/yasinnorozzadeh/main/intro.gif"/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinnorozzadeh&layout=compact&text_color=000&icon_color=000&bg_color=FFFFFF" />
-    <img src="https://github-readme-stats.vercel.app/api?username=yasinnorozzadeh&show_icons=true&text_color=000&icon_color=000&bg_color=FFFFFF" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamiKoco&layout=compact&text_color=000&icon_color=000&bg_color=FFFFFF" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RamiKoco&show_icons=true&text_color=000&icon_color=000&bg_color=FFFFFF" />
 </p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
 <p align="center">
- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasinnorozzadeh&theme=github_dark" alt="yasinnorozzadeh" align = "center"/>
+ <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamiKoco&theme=github_dark" alt="RamiKoco" align = "center"/>
 </p>
 
   
