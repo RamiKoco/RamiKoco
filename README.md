@@ -1,5 +1,4 @@
 # 💫 About Me:
-<img src="https://i.imgur.com/A6bWGFl.gif"/> 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" />
 I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨‍🎓!<br>- 🔭 I’m currently working on a large and special application.<br>- 🌱 I’m currently developing Asp.Net application<br>- 👯I’m looking to collaborate with other .NET developers 👩‍💻 and JavaScript designers 🎨<br>- 🥅 2023 Goals: Developing an app to be heard in the world 🌎 and learning artificial intelligence 🤖<br>- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and cycling 🚴‍♀️<br>⏲ What we are doing now:<br>I'm constantly developing projects to improve myself. 🚀.<br>I'm a Software Engineer 💻.<br>I'm developing an app with my team 👨🏼‍🤝‍👨🏻,<br>I also work as a FreeLancer 🆓.
 
@@ -58,14 +57,6 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ramikoco&limit=5&theme=dark&combine_all_yearly_contributions=true) 
-
-
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
-
-
-[![](https://visitcount.itsvg.in/api?id=Ramikoco&icon=0&color=0)](https://visitcount.itsvg.in) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Burası yeni
 <img align="left" width=50px height=50px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
