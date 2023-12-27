@@ -59,5 +59,6 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
 
 <img align="left" width=50px height=50px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img align="right" width=50px height=50px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
+
 ![Snake animation](https://github.com/yasinnorozzadeh/yasinnorozzadeh/blob/main/github-user-contribution.svg) 
  
