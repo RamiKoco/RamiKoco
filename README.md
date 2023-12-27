@@ -51,7 +51,10 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
 ![](https://github-profile-trophy.vercel.app/?username=Ramikoco&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ramikoco&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Ramikoco&limit=5&theme=dark&combine_all_yearly_contributions=true) 
+<div>
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
+</div>
 <!-- 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ramikoco&icon=0&color=0)](https://visitcount.itsvg.in) -->
@@ -76,9 +79,7 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
   <img width=100% src="https://github-profile-trophy.vercel.app/?username=yasinnorozzadeh&theme=monokai&column=7&no-frame=false&margin-w=4"/>
 </p> -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
-<div>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-</div>
+
 <div> 
  
  
