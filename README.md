@@ -60,9 +60,8 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
 
 <!-- Burası yeni -->
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
- <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
- <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-</p>
+<!--  <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> -->
+<!-- <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/> </p> -->
 
 
 
