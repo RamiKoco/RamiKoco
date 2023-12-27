@@ -9,11 +9,14 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
  <img src="https://media3.giphy.com/media/TpNTATTp5c2Ri/giphy.gif?cid=790b7611a9ccd55e6b764aacf4c7a277dc6c1d020f1e187e&rid=giphy.gif&ct=s" width="45" height="25" align="right">
  <img src="https://media0.giphy.com/media/5eFFhJ3yrAIndRQeFx/giphy.gif?cid=790b761159865a018304701e37e468edc07abbeca1073a30&rid=giphy.gif&ct=s" width="35" height="25"> 
  <img align="right" width=50px height=50px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+
 
 ## 🌐 Socials: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rami-koco-6167a9243/) 
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/> </p> 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rami-koco-6167a9243/) 
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
