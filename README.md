@@ -62,9 +62,7 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
 <img align="left" width=50px height=50px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img align="right" width=50px height=50px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
 -->
- ![Github](https://img.shields.io/github/followers/yasinnorozzadeh?label=Follow&style=social) 
-  
-<!--
+
 </div>
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
