@@ -8,7 +8,7 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
  <img src="https://media2.giphy.com/media/3JTwfEEdDlpyh6M0o2/giphy.gif?cid=790b7611e9c9e8bc9ce40170c9368926692fdb648405ee7c&rid=giphy.gif&ct=s" width="45" height="25" align="right">
  <img src="https://media0.giphy.com/media/2oO1ZKeNbqOfdZq3Xg/giphy.gif?cid=790b7611ba913d63c2062a9ed006330a9e0b3b82405ca556&rid=giphy.gif&ct=s" width="40" height="25" align="left">
 
-<img align="left" width=30px height=30px  alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="color:💙" />
+<img align="left" width=30px height=30px  alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <img align="right" width=30px height=30px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
  
  <img src="https://media4.giphy.com/media/Jfcb1m7szdya4/giphy.gif?cid=790b7611ba301e9e5a458343e47a2e69f896f8a65b16c282&rid=giphy.gif&ct=s" width="45" height="25" align="right"> 
@@ -47,6 +47,8 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+# Database 🔐🖥️🔄🔲
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
