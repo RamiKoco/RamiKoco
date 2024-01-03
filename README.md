@@ -66,7 +66,7 @@ I'm a computer engineer, Full Stack Developer 🚀, Writer ✍ and Teacher 👨�
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ramikoco&theme=vue-dark&hide_border=false) </br>
 ![](https://github-readme-stats.vercel.app/api?username=Ramikoco&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true) </br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramikoco&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
