@@ -19,7 +19,7 @@
  <img src="https://media0.giphy.com/media/2oO1ZKeNbqOfdZq3Xg/giphy.gif?cid=790b7611ba913d63c2062a9ed006330a9e0b3b82405ca556&rid=giphy.gif&ct=s" width="45" height="25" align="left">
  <img src="https://media1.giphy.com/media/ZbftmEwht0nDkl6XFX/giphy.gif?cid=ecf05e47l19lzmqnuv3o320i63xy3da13bsxhp10w9z9wm8s&rid=giphy.gif&ct=s" width="45" height="25" align="left">
  <img src="https://media4.giphy.com/media/Jfcb1m7szdya4/giphy.gif?cid=790b7611ba301e9e5a458343e47a2e69f896f8a65b16c282&rid=giphy.gif&ct=s" width="45" height="25" align="left">
- <img src="https://media4.giphy.com/media/Jfcb1m7szdya4/giphy.gif?cid=790b7611ba301e9e5a458343e47a2e69f896f8a65b16c282&rid=giphy.gif&ct=s" width="45" height="25" align="left">
+
  
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="215" />
