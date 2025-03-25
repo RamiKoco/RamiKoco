@@ -23,7 +23,7 @@
  
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="215" />
-I'm a computer engineer, Full Stack Developer 🚀👨‍🎓!<br>- 🔭 I’m currently working on a large and special application.<br>- 🌱 I’m currently developing Asp.Net application
+I'm a computer engineer, Full Stack Developer 🚀<br>- 🔭 I’m currently working on a large and special application.<br>- 🌱 I’m currently developing Asp.Net application.
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 
 
