@@ -55,6 +55,13 @@ Computer Engineer & Full Stack Developer 🚀<br>
 ## 🧰 Tools & Libraries:
 ![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white)
 
+## 📚 Öğrenme & İçerik Repoları
+C# ve .NET üzerine örneğe dayalı Türkçe makaleler:
+- **[DesignPatternsWithCSharp](https://github.com/RamiKoco/DesignPatternsWithCSharp)** — Tasarım desenleri.
+- **[CachingWithCSharp](https://github.com/RamiKoco/CachingWithCSharp)** — File/Memory/SQL Server cache.
+- **[EntityFrameworkWithCSharp](https://github.com/RamiKoco/EntityFrameworkWithCSharp)** — EF Core: ilişkiler, migration, performans.
+- **[DomainDrivenDesignWithCSharp](https://github.com/RamiKoco/DomainDrivenDesignWithCSharp)** — DDD: Value Object, Aggregate, Repository…
+  
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ramikoco&theme=vue-dark&hide_border=false) </br>
 ![](https://github-readme-stats.vercel.app/api?username=Ramikoco&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true) </br>
