@@ -61,6 +61,7 @@ C# ve .NET üzerine örneğe dayalı Türkçe makaleler:
 - **[CachingWithCSharp](https://github.com/RamiKoco/CachingWithCSharp)** — File/Memory/SQL Server cache.
 - **[EntityFrameworkWithCSharp](https://github.com/RamiKoco/EntityFrameworkWithCSharp)** — EF Core: ilişkiler, migration, performans.
 - **[DomainDrivenDesignWithCSharp](https://github.com/RamiKoco/DomainDrivenDesignWithCSharp)** — DDD: Value Object, Aggregate, Repository…
+- **[DevExpressWithCSharp](https://github.com/RamiKoco/DevExpressWithCSharp)** — DevExpress WinForms: GridControl, Editors, Scheduler.
   
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ramikoco&theme=vue-dark&hide_border=false) </br>
