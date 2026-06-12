@@ -62,12 +62,6 @@ C# ve .NET üzerine örneğe dayalı Türkçe makaleler:
 - **[EntityFrameworkWithCSharp](https://github.com/RamiKoco/EntityFrameworkWithCSharp)** — EF Core: ilişkiler, migration, performans.
 - **[DomainDrivenDesignWithCSharp](https://github.com/RamiKoco/DomainDrivenDesignWithCSharp)** — DDD: Value Object, Aggregate, Repository…
 - **[DevExpressWithCSharp](https://github.com/RamiKoco/DevExpressWithCSharp)** — DevExpress WinForms: GridControl, Editors, Scheduler.
-- 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ramikoco&limit=5&theme=dark&combine_all_yearly_contributions=true) 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ramikoco&theme=radical&no-frame=false&no-bg=false&margin-w=4) 
 
 <img align="left" width=30px height=30px  alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <img align="right" width=30px height=30px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
