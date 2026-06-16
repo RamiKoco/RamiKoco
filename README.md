@@ -62,6 +62,7 @@ C# ve .NET üzerine örneğe dayalı Türkçe makaleler:
 - **[EntityFrameworkWithCSharp](https://github.com/RamiKoco/EntityFrameworkWithCSharp)** — EF Core: ilişkiler, migration, performans.
 - **[DomainDrivenDesignWithCSharp](https://github.com/RamiKoco/DomainDrivenDesignWithCSharp)** — DDD: Value Object, Aggregate, Repository…
 - **[DevExpressWithCSharp](https://github.com/RamiKoco/DevExpressWithCSharp)** — DevExpress WinForms: GridControl, Editors, Scheduler.
+- **[AzureDevOps-CICD](https://github.com/RamiKoco/AzureDevOps-CICD)** — Azure DevOps & CI/CD: Pipelines, Azure kaynakları, Boards.
 
 <img align="left" width=30px height=30px  alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <img align="right" width=30px height=30px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
