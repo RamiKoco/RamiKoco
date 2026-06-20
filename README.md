@@ -55,6 +55,10 @@ Computer Engineer & Full Stack Developer 🚀<br>
 ## 🧰 Tools & Libraries:
 ![DevExpress](https://img.shields.io/badge/DevExpress-FF7200?style=for-the-badge&logo=devexpress&logoColor=white)
 
+## Projeler
+
+- **[DotNetERP](https://github.com/RamiKoco/DotNetERP)** — Katmanlı mimari ile geliştirilmiş örnek ERP/CRM masaüstü uygulaması. C#, Entity Framework 6, LINQ, OOP ve DevExpress WinForms; Cari/kişi yönetimi (CRM) modülleri.
+
 ## 📚 Öğrenme & İçerik Repoları
 C# ve .NET üzerine örneğe dayalı Türkçe makaleler:
 - **[DesignPatternsWithCSharp](https://github.com/RamiKoco/DesignPatternsWithCSharp)** — Tasarım desenleri.
