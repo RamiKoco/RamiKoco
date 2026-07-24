@@ -1,14 +1,10 @@
 # 💫 About Me: 
- <img src="https://media2.giphy.com/media/3JTwfEEdDlpyh6M0o2/giphy.gif?cid=790b7611e9c9e8bc9ce40170c9368926692fdb648405ee7c&rid=giphy.gif&ct=s" width="45" height="25" align="left">
-
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="215" />
 Computer Engineer & Full Stack Developer 🚀<br>
 - 🔭 Currently working on a large-scale, high-impact application.<br>
 - 🌱 Developing an ERP system in C#, utilizing Entity Framework, LINQ, layered architecture, OOP principles, and DevExpress.
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
-
-
 
 ## 🌐 Socials: 
 
